@@ -1,0 +1,8 @@
+{
+	"dependencies" : {
+		"com.vrchat.clientsim" : {
+			"version" : "1.2.x"
+		}
+	},
+	"locked" : {}
+}
