@@ -93,9 +93,9 @@ When you're ready to publish your World so you can use it regularly:
 * Return to the VRChat SDK Control Panel in your Unity Project
 * Switch to the "Builder" tab and press "Build and Publish for Windows".
 * This will build your World and add some publishing options to your Game window.
-* Fill out the required fields "Avatar Name", "Description", "Sharing", and check the terms box "the above information is accurate...".
+* Fill out the fields "World Name", "Description" and "Sharing", and check the terms box "the above information is accurate...".
 * Press "Upload".
 
-Return to VRChat - your Avatar should now show up under "My Creations" at the top of the Avatar listing. Choose it and enjoy!
+Return to VRChat - open the "Worlds" menu, then scroll down to the section named "Mine". Choose your world from the list and press "Go" to check it out!
 
 </details>
